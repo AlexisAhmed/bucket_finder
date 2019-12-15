@@ -1,4 +1,4 @@
-#!/usr/bin/env ruby
+#!/usr/bin/ruby
 
 # == Bucket Finder - Trawl Amazon S3 buckets for interesting files
 #
